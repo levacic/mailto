@@ -1,6 +1,5 @@
 {
     "name": "levacic/mailto",
-    "version": "1.0.1",
     "description": "A generator for \"mailto:\" links",
     "keywords":[
         "mailto"
